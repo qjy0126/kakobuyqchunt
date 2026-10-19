@@ -147,7 +147,7 @@
       { label: "Shoes", href: KQS.catHref("shoes"), icon: "shoe" },
       { label: "T-shirts", href: KQS.catHref("t-shirts"), icon: "shirt" },
       { label: "Hoodies", href: KQS.catHref("hoodies"), icon: "hoodie" },
-      { label: "外套", href: KQS.catHref("jackets"), icon: "jacket" },
+      { label: "Jackets", href: KQS.catHref("jackets"), icon: "jacket" },
       { label: "Pants", href: KQS.catHref("pants"), icon: "pants" },
       { label: "Bags", href: findsHref("Bag"), icon: "bag" },
       { label: "Watches", href: findsHref("Watch"), icon: "watch" },

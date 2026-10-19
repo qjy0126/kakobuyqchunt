@@ -9,7 +9,7 @@ KQS.categories = [
   { slug: "shoes", label: "Shoes", nav: "Shoes", image: "7870123357.webp" },
   { slug: "t-shirts", label: "T-Shirts", nav: "T-Shirts", image: "7873199854.webp" },
   { slug: "hoodies", label: "Hoodies", nav: "Hoodies/Sweaters", image: "7862384609.webp" },
-  { slug: "jackets", label: "外套", nav: "外套", image: "7866426774.webp" },
+  { slug: "jackets", label: "Jackets", nav: "Jackets", image: "7866426774.webp" },
   { slug: "pants", label: "Pants/Shorts", nav: "Pants/Shorts", image: "7873155166.webp" },
   { slug: "headwear", label: "Headwear", nav: "Headwear", image: "7865339420.webp" },
   { slug: "sets", label: "Sets", nav: "Sets", image: "7862323949.webp" },
