@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+*.log
+node_modules/
+.wrangler/
+.dev.vars
+kakobuyspreadsheet2026-2027/
+tmp-annotate.png
+.~*
+*.tmp
