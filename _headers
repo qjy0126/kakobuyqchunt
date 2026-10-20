@@ -1,8 +1,17 @@
+/sitemap.xml
+  Content-Type: application/xml; charset=utf-8
+
 /sitemap.txt
+  Content-Type: application/xml; charset=utf-8
+
+/sitemap-pages.xml
   Content-Type: application/xml; charset=utf-8
 
 /sitemap-pages.txt
   Content-Type: application/xml; charset=utf-8
 
-/sitemaps/*.txt
+/sitemap-products.xml
+  Content-Type: application/xml; charset=utf-8
+
+/sitemap-products.txt
   Content-Type: application/xml; charset=utf-8
