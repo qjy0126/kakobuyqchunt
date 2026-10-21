@@ -1,13 +1,13 @@
 /* Firebase Analytics — loaded from layout.js on every page */
 (() => {
   const firebaseConfig = {
-    apiKey: "AIzaSyBhdQVl_G8dBCuBEhA7eARbxPNVdH_Uww8",
-    authDomain: "hipobuy-website.firebaseapp.com",
-    projectId: "hipobuy-website",
-    storageBucket: "hipobuy-website.firebasestorage.app",
-    messagingSenderId: "59289522752",
-    appId: "1:59289522752:web:13b0f19f4d4b2ff6edc5a5",
-    measurementId: "G-7G31893Z2K",
+    apiKey: "AIzaSyDKQ5x1dCohEIeppElYY0PsyF7b2hu5hDc",
+    authDomain: "kakobuywebsite2.firebaseapp.com",
+    projectId: "kakobuywebsite2",
+    storageBucket: "kakobuywebsite2.firebasestorage.app",
+    messagingSenderId: "433406177038",
+    appId: "1:433406177038:web:76adfcd0a52b0127b0315f",
+    measurementId: "G-K2RLJ5W4M0",
   };
 
   Promise.all([
